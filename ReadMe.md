@@ -2,9 +2,9 @@
 1. Uncompress to user's home folder
 2. Refresh the font caches by execute under command in terminal:
 
-	`sudo fc-cache -fv`
+	`fc-cache -fv`
 
-	After do this a reboot maybe need
+	After do this a reboot maybe needed
 
 # Preview #
 ## PowerLine ##
